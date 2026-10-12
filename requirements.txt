@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+scikit-learn
+joblib
+torch
+transformers
+accelerate>=0.26
+streamlit
+plotly
